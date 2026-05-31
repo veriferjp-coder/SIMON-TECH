@@ -1,0 +1,33 @@
+{
+  "name": "simon-tech",
+  "version": "1.0.0",
+  "description": "🤖 SIMON TECH - Your intelligent WhatsApp assistant powered by Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "assistant",
+    "automation",
+    "simon-tech"
+  ],
+  "author": "veriferjp-coder",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.25.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

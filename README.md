@@ -1,5 +1,5 @@
 ╔════════════════════╗
-║   🤖 SIMON TECH    ║
+║   🤖 SIMON TECH BOT    ║
 ╚════════════════════╝
 
 > Your intelligent WhatsApp assistant powered by Node.js ⚡
